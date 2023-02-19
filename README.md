@@ -1,5 +1,4 @@
 # DSEBD_Prediction
-<image src="Images/GP.jpg" width="100" height="80" align="right" />
 This repository build for analysis Grameenphone Limited (GPL) data for DSEBD_Prediction.
 
 ## Analysis
