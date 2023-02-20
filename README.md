@@ -1,10 +1,11 @@
 # DSEBD_Prediction
-This repository build for analysis Grameenphone Limited (GPL) data for DSEBD_Prediction.
+This repository build for analysis Grameenphone Limited (GPL) , Walton and Orion Pharmaceutical  data for DSEBD Prediction.
 
 ## Analysis
 #### Bolinger Band
 ![](Images/BB.png)
 This is Bolinger Band plot for GPL. This plot shows the upper and lower band of GPL stock price. The upper band is 2 standard deviation above the 20-day moving average and the lower band is 2 standard deviation below the 20-day moving average. The bands automatically widen when volatility increases and narrow when volatility decreases. The bands also automatically adjust to price changes. The bands are a dynamic indicator that change as the market changes.
+
 
 #### RSI
 
