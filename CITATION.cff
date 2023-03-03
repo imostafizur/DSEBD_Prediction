@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Dhaka Stock Exchange Price Prediction and Analysis using
+  Mathematical Modeling, Deep learning and Simulation.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: mostafizur.rahman10@northsouth.edu
+    name-particle: Mostafizur
+    family-names: Rahman
+    affiliation: 'North South University '
+    orcid: 'https://orcid.org/0000-0002-5239-9530'
+license: MIT
